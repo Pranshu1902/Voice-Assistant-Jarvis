@@ -139,10 +139,6 @@ def jarvis(audio, task):
     elif t=="hope":
         webbrowser.get("chrome").open("https://www.youtube.com/watch?v=8nb6zgHSvww&list=LL&index=1")
         
-    elif t=="book":
-        webbrowser.get("chrome").open("file:///C:/Users/DELL/Desktop/The%20US/Books/Start%20with%20Why%20How%20Great%20Leaders%20Inspire%20Everyone%20to%20Take%20Action%20by%20Simon%20Sinek%20(z-lib.org)%20(1).pdf")
-        webbrowser.get("chrome").open("notion.so")
-        
     elif t=="class":
         # atomatically joins the class based on the timetable
 

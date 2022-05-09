@@ -4,4 +4,4 @@ This is a virtual assistant built to automate day to day tasks like joining meet
 
 Here is the screenshot:
 
-![146819531-ebfd37f7-d146-4ade-9d39-a361aa63edb6](https://user-images.githubusercontent.com/70687348/167455658-132f143c-fa6e-452a-bbd1-64b2ce2a98c2.png)
+![146819531-ebfd37f7-d146-4ade-9d39-a361aa63edb6 (1)-modified](https://user-images.githubusercontent.com/70687348/167455975-35e1d2f2-415a-4ab8-905d-596f5b0f57ac.png)

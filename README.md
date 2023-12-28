@@ -1,7 +1,7 @@
 
-# Meeting Manager
+# Meeting Assistant
 
-This is a virtual assistant built to automate day to day tasks like joining meeting based on calendar, checking emails, autoreplying to messages, etc.
+This is a virtual assistant built to automate day-to-day tasks like joining meetings based on the calendar, checking emails, auto replying to messages, etc.
 
 ## Tech Stack
 
